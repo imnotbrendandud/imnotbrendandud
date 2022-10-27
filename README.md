@@ -1,5 +1,5 @@
 # Brendan Czekaj
-`Developer / Designer / Artist`
+`Developer / Designer / Creator`
 
 I'm an indie game developer with a passion for designing, prototyping, and putting my work into fruition. I began my development journey in community college where I graduated with an Associate's of Computer Science. I am now working towards my Bachelor's degree in Computer Science at Michigan Technological University. My focus is in game development, but I also have experience making apps, websites, and other software. I picked up game development because the field piqued my interest and, as a result, I have been teaching myself Unity. My portfolio of projects include 2D and 3D games with a specialization in programming and design.
 <h3 align="left">Languages and Tools:</h3>
