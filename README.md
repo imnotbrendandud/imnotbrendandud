@@ -1,4 +1,6 @@
-### Brendan Czekaj 👋
+### Brendan Czekaj
+
+**'Game Developer'**
 
 <!--
 **imnotbrendandud/imnotbrendandud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
