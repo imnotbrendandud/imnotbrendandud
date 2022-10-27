@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendan Czekaj</h1>
-<h3 align="center">Game Developer/Software Engineer/Designer</h3>
+**`Game Developer/Software Engineer/Designer`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
