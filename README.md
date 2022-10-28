@@ -8,6 +8,9 @@ I'm an indie game developer with a passion for designing, prototyping, and putti
 ---
 <h3 align="left">Projects</h3>
 
+![Forest Quest](https://user-images.githubusercontent.com/81782166/198697929-01f7dc5c-331b-419d-a422-2d5b50eb12d2.png)
+
+
 <details><summary>Forest Quest</summary>
   
   <h3>Work in Progress</h3>
