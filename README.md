@@ -10,6 +10,6 @@ I'm an indie game developer with a passion for designing, prototyping, and putti
 
 <details><summary>Forest Quest</summary>
   
-  <h3>Details</h3>
+  <h3>Work in Progress</h3>
   
 </details>
