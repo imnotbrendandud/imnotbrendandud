@@ -15,3 +15,10 @@ I'm an indie game developer with a passion for designing, prototyping, and putti
 Forest Quest is a 2D top-down RPG that takes inspiration from The Legend of Zelda. The game was developed as a school project requiring our 5-man team to finish within 4 weeks. We were allowed to create whatever we wanted but as the lead developer, I chose a somewhat taxing genre (an RPG). But first, we had to propose the idea with our professor. Certainly, the professor had doubted our proposal as it was too ambitious. However, being A+ students in past courses, they let it slide. Working on the project was a treat, providing me with stress, anxiety, and self-doubt (Nice!). With hours of hard work and dedication, the team was able to finish the game as we had planned. We received positive feedback on the game, but it still has many bugs that I do not want to go back and fix. Anyways, that's Forest Quest. Shoutout to the team for putting the project into fruition and the professor for always believing in us. What an opportunity it was to work on this game because I learned how to cooperate on a team, adapt to a deadline, and handle stress.
 
 ![FQDemonstration](https://user-images.githubusercontent.com/81782166/200076719-fc061a2c-1c0a-4198-87a1-f6d75b90d1f4.gif)
+
+## 🧱 Brick Breaker 🧱
+
+I created a brick breaker remake with my own style and art. The game has 3 powerups, a scoring system, and a game over screen. Simple but addictive, my brick breaker remake has a silly spin on the original.
+
+![BrickBreakerDem](https://user-images.githubusercontent.com/81782166/204042132-ef579994-60fd-4fd5-87d3-83c590ed95ee.gif)
+![BrickBreakerDem2](https://user-images.githubusercontent.com/81782166/204042154-ea14e1d5-3119-4b11-ada8-1354b3375966.gif)
