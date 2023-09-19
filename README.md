@@ -7,20 +7,39 @@ I'm an indie game developer with a passion for designing, prototyping and puttin
 
 ---
 # Projects
+<details> 
+  <summary>
+    
+  ## :evergreen_tree: Forest Quest :evergreen_tree:
+    
+  </summary>
 
+**Forest Quest is a 2D top-down role-playing game that takes inspiration from The Legend of Zelda. The game was developed as a school project requiring our 5-man team to finish within 4 weeks. There were no constraints to the project other than the deadline. This meant that our team could make any game we wanted. But first, we had to propose an idea to our professor. Working on the project was a treat, providing me with stress, anxiety, and self-doubt (Nice!).  With hours of hard work and dedication, the team was able to pull off a miracle and get it done. We received positive feedback on the game, but it still has many bugs that I will leave untouched for the memories. Anyways, that is Forest Quest. Shoutout to the team for putting the project to fruition and our professor for believing in us. What an opportunity it was to work on this project all the while cooperating on a team, adapting to a deadline, and handling stress.**
+  
 ![Forest Quest](https://user-images.githubusercontent.com/81782166/198699695-655c63ec-7d3d-4d21-8fe4-047f72a2d349.png)
 
-## :evergreen_tree: Forest Quest :evergreen_tree:
-  
-Forest Quest is a 2D top-down role-playing game that takes inspiration from The Legend of Zelda. The game was developed as a school project requiring our 5-man team to finish within 4 weeks. There were no constraints to the project other than the deadline. This meant that our team could make any game we wanted. But first, we had to propose an idea to our professor. Working on the project was a treat, providing me with stress, anxiety, and self-doubt (Nice!).  With hours of hard work and dedication, the team was able to pull off a miracle and get it done. We received positive feedback on the game, but it still has many bugs that I will leave untouched for the memories. Anyways, that is Forest Quest. Shoutout to the team for putting the project to fruition and our professor for believing in us. What an opportunity it was to work on this project all the while cooperating on a team, adapting to a deadline, and handling stress.
-
 ![FQDemonstration](https://user-images.githubusercontent.com/81782166/200076719-fc061a2c-1c0a-4198-87a1-f6d75b90d1f4.gif)
+</details>
 
-## 🧱 Brick Breaker 🧱
+<details>
+<summary> 
+  
+ ## 🧱 Brick Breaker 🧱 
+ 
+</summary>
 
-I created a brickbreaker game with my own style and art. The game has 3 powerups, a scoring system, and a game over screen. Simple but addictive, my brickbreaker remake has a silly spin on the original.
+**This Brickbreaker remake is my first game with stylized art. The game has 3 powerups, a scoring system, and a game over screen. Simple but addictive, Brickbreaker has a smooth and polished flow to it.**
 
 ![BrickBreakerDem](https://user-images.githubusercontent.com/81782166/204042132-ef579994-60fd-4fd5-87d3-83c590ed95ee.gif)
 ![BrickBreakerDem2](https://user-images.githubusercontent.com/81782166/204042154-ea14e1d5-3119-4b11-ada8-1354b3375966.gif)
+</details>
 
+<details>
+<summary>
+  
 ## 🌙 Lunar Rising 🚀
+
+</summary>
+
+
+</details>
