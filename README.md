@@ -41,5 +41,6 @@ I'm an indie game developer with a passion for designing, prototyping and puttin
 
 </summary>
 
+***Details and download link posted at: https://huskygamedev.itch.io/lunar-rising***
 
 </details>
