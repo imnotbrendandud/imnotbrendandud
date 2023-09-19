@@ -18,7 +18,9 @@ Forest Quest is a 2D top-down role-playing game that takes inspiration from The 
 
 ## 🧱 Brick Breaker 🧱
 
-I created a brick breaker remake with my own style and art. The game has 3 powerups, a scoring system, and a game over screen. Simple but addictive, my brick breaker remake has a silly spin on the original.
+I created a brickbreaker game with my own style and art. The game has 3 powerups, a scoring system, and a game over screen. Simple but addictive, my brickbreaker remake has a silly spin on the original.
 
 ![BrickBreakerDem](https://user-images.githubusercontent.com/81782166/204042132-ef579994-60fd-4fd5-87d3-83c590ed95ee.gif)
 ![BrickBreakerDem2](https://user-images.githubusercontent.com/81782166/204042154-ea14e1d5-3119-4b11-ada8-1354b3375966.gif)
+
+## 🌙 Lunar Rising 🚀
