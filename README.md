@@ -7,7 +7,7 @@ I am a software developer passionate about designing, prototyping, and putting m
 
 ---
 
-# Projects ~ https://imnotbrendandud.itch.io/
+# Game Dev Projects ~ https://imnotbrendandud.itch.io/
 <details> 
   <summary>
     
