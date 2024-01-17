@@ -45,3 +45,5 @@ I am a software developer passionate about designing, prototyping, and putting m
 ***Details and download link posted at: https://huskygamedev.itch.io/lunar-rising***
 
 </details>
+
+# More projects in my repositories 🙂
